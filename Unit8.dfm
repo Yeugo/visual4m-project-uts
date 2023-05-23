@@ -1,10 +1,10 @@
 object Form8: TForm8
   Left = 321
   Top = 188
-  Width = 361
-  Height = 267
+  Width = 438
+  Height = 331
   Caption = 'Form8'
-  Color = clSkyBlue
+  Color = clAqua
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
